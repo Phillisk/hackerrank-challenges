@@ -1,4 +1,4 @@
-// I did this
+#I did this
 #!/bin/python
 
 import sys
@@ -24,7 +24,7 @@ for j in height:
         
 print total
 
-//Then I remembered the built in functions and this worked
+#Then I remembered the built in functions and this worked
 #!/bin/python
 
 import sys
